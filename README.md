@@ -1,6 +1,6 @@
 # NFT Welcome to Shiden Network
 
-![](https://github.com/Maar-io/shwidelcome-nft/blob/main/public/config/images/bg.png)
+![](https://github.com/Maar-io/shMonsters-nft/public/config/images/banner.jpg)
 
 All the code in these repos was created and explained by HashLips.
 
