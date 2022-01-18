@@ -200,9 +200,9 @@ function App() {
         flex={1}
         ai={"center"}
         style={{ padding: 120, backgroundColor: "var(--primary)" }}
-        image={CONFIG.SHOW_BACKGROUND ? "/shMonsters-nft/config/images/bg.png" : null}
+        image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.png" : null}
       >
-        <StyledImg alt={"logo"} src={"/shMonsters-nft/config/images/logo.png"} />
+        <StyledImg alt={"logo"} src={"/config/images/logo.png"} />
         <s.SpacerSmall />
         <ResponsiveWrapper flex={1} style={{ padding: 100 }} test>
           {/* <s.Container flex={1} jc={"center"} ai={"center"}>
