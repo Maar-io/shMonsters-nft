@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shMonsters-nft/static/css/main.18c2fd0b.chunk.css",
+    "main.js": "/shMonsters-nft/static/js/main.c3f49fe6.chunk.js",
+    "main.js.map": "/shMonsters-nft/static/js/main.c3f49fe6.chunk.js.map",
+    "runtime-main.js": "/shMonsters-nft/static/js/runtime-main.595d3dfd.js",
+    "runtime-main.js.map": "/shMonsters-nft/static/js/runtime-main.595d3dfd.js.map",
+    "static/js/2.7edcb71d.chunk.js": "/shMonsters-nft/static/js/2.7edcb71d.chunk.js",
+    "static/js/2.7edcb71d.chunk.js.map": "/shMonsters-nft/static/js/2.7edcb71d.chunk.js.map",
+    "static/js/3.9e990d2f.chunk.js": "/shMonsters-nft/static/js/3.9e990d2f.chunk.js",
+    "static/js/3.9e990d2f.chunk.js.map": "/shMonsters-nft/static/js/3.9e990d2f.chunk.js.map",
+    "index.html": "/shMonsters-nft/index.html",
+    "static/css/main.18c2fd0b.chunk.css.map": "/shMonsters-nft/static/css/main.18c2fd0b.chunk.css.map",
+    "static/js/2.7edcb71d.chunk.js.LICENSE.txt": "/shMonsters-nft/static/js/2.7edcb71d.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/shMonsters-nft/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.595d3dfd.js",
+    "static/js/2.7edcb71d.chunk.js",
+    "static/css/main.18c2fd0b.chunk.css",
+    "static/js/main.c3f49fe6.chunk.js"
+  ]
+}
