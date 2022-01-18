@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x92eA387444c48b352Ca6d0eA5384C6C5CD38bbA3",
+  "SCAN_LINK": "https://blockscout.com/shiden/address/0x92eA387444c48b352Ca6d0eA5384C6C5CD38bbA3/contracts",
+  "NETWORK": {
+    "NAME": "Shiden",
+    "SYMBOL": "SDN",
+    "ID": 336
+  },
+  "NFT_NAME": "Welcome to Shiden Network",
+  "SYMBOL": "SHM",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "ToftNFT",
+  "MARKETPLACE_LINK": "https://tofunft.com/user/0xC779CEB0853fa7AB6a38c587c1CFC702e4603d9B",
+  "SHOW_BACKGROUND": true
+}
