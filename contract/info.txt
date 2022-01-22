@@ -1,0 +1,23 @@
+# ShMonsters IMG_CID = 'bafybeigcjujjjshpxecnqlsxobkzv76njzfljvgpd7xu33qywfom7q3ybq'
+# ShMonsters json CID = 'bafybeiezurc3dpn7wy6jkjotjuw5jcvmefnoqip2wivz5rkj3uzga6uzqu'
+
+Shiden contract address
+0x406bC9Fd7D3Bfcb6b0d102FdE21BFF7E5E9F2b9A
+
+
+https://blockscout.com/shiden/address/0x406bC9Fd7D3Bfcb6b0d102FdE21BFF7E5E9F2b9A/contracts
+
+
+ABI encoded constructor:
+you need .abi
+and all entry parameters
+https://abi.hashex.org/
+
+
+# _INITBASEURI must finish with '/'
+_INITBASEURI = ipfs://bafybeiezurc3dpn7wy6jkjotjuw5jcvmefnoqip2wivz5rkj3uzga6uzqu/
+
+
+# in case od "reveal" we need separate IPFS CID
+# following is just a format. ShMonsters do not use reveal
+_INITNOTREVEALEDURI = ipfs://QmTxrYjivBcpfeuk5RgMw9zQHswdrEXGQFgcMpcyHFVAUJ/hidden.json

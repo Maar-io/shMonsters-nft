@@ -162,8 +162,8 @@ function App() {
 
   const incrementMintAmount = () => {
     let newMintAmount = mintAmount + 1;
-    if (newMintAmount > 3) {
-      newMintAmount = 3;
+    if (newMintAmount > 2) {
+      newMintAmount = 2;
     }
     setMintAmount(newMintAmount);
   };
@@ -175,7 +175,7 @@ function App() {
   };
 
   const getConfig = async () => {
-    const configResponse = await fetch("/config/config.json", {
+    const configResponse = await fetch("/shMonsters-nft/config/config.json", {
     // const configResponse = await fetch("/shMonsters-nft/config/config.json", {
       headers: {
         "Content-Type": "application/json",
@@ -199,12 +199,12 @@ function App() {
       <s.Container
         flex={1}
         ai={"center"}
-        style={{ padding: 120, backgroundColor: "var(--primary)" }}
-        image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.png" : null}
+        style={{ padding: 50, backgroundColor: "var(--primary)" }}
+        image={CONFIG.SHOW_BACKGROUND ? "/shMonsters-nft/config/images/bg.png" : null}
       >
-        <StyledImg alt={"logo"} src={"/config/images/logo.png"} />
+        <StyledImg alt={"logo"} src={"/shMonsters-nft/config/images/logo.png"} />
         <s.SpacerSmall />
-        <ResponsiveWrapper flex={1} style={{ padding: 100 }} test>
+        <ResponsiveWrapper flex={1} style={{ padding: 10 }} test>
           {/* <s.Container flex={1} jc={"center"} ai={"center"}>
             <StyledImg alt={"example"} src={"/shMonsters-nft/config/images/example.gif"} />
           </s.Container> */}
