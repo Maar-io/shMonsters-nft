@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shMonsters-nft/static/css/main.18c2fd0b.chunk.css",
-    "main.js": "/shMonsters-nft/static/js/main.4b9f4722.chunk.js",
-    "main.js.map": "/shMonsters-nft/static/js/main.4b9f4722.chunk.js.map",
+    "main.js": "/shMonsters-nft/static/js/main.ea130a29.chunk.js",
+    "main.js.map": "/shMonsters-nft/static/js/main.ea130a29.chunk.js.map",
     "runtime-main.js": "/shMonsters-nft/static/js/runtime-main.595d3dfd.js",
     "runtime-main.js.map": "/shMonsters-nft/static/js/runtime-main.595d3dfd.js.map",
     "static/js/2.7edcb71d.chunk.js": "/shMonsters-nft/static/js/2.7edcb71d.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.595d3dfd.js",
     "static/js/2.7edcb71d.chunk.js",
     "static/css/main.18c2fd0b.chunk.css",
-    "static/js/main.4b9f4722.chunk.js"
+    "static/js/main.ea130a29.chunk.js"
   ]
 }
